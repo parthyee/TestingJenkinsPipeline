@@ -1,1 +1,3 @@
-Write-Host "Hello World, I'm a Jenkins build!"
+# Write-Host "Hello World, I'm a Jenkins build!"
+$strString = "Hello World"
+write-host $strString
